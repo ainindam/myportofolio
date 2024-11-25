@@ -223,4 +223,8 @@ li a {
     color:rgb(91, 91, 167);
 }
 
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(to margin-bottom, rgb,0, 157, 192, rgb, 0, 123, 156);
+}
+
 /* Experience End */
